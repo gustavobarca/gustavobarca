@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor **fullstack** com preferências em **backend** e também me intrometo um pouquinho em **UI/UX Design**.
 
-👨‍💻 Fuçando nesse mundão de TI desde 2013. 
+👨‍💻 Fuçando em TI desde 2013. 
 
 - 🔭 I’m currently working on a project called **Aurora*.
 - 🌱 I’m currently learning **DDD** and **Clean Architecture**.
